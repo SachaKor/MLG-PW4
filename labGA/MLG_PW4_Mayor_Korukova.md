@@ -3,13 +3,15 @@
 *HEIG-VD - MLG - 30.05.2019*  
 
 ## 6.1. Briefly explain the problem and your solution
-*Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city exactly once and returns to the origin city?*  
+> Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city exactly once and returns to the origin city?    
 
 
 
 ## 6.2 Provide the better route you found and the shortest path in kilometers. Is it the optimal shortest path ? explain.
 
-## 6.3 Describe your fitness function
+## 6.3 Describe your fitness function  
+
+Our fitness function is based on the __spherical distance__ between two cities. 
 
 ## 6.4 Explain the way you encoded the solution, give a chromosome example.
 
@@ -18,4 +20,3 @@
 ## 6.6 Provide relevant plots of your experiments and explanations.
 
 ## 6.7 Conclusions
-
